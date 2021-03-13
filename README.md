@@ -4,6 +4,8 @@ doing a little web dev contracting with <a href="http://www.designori.net/">this
 Some of my projects: <br/>
 1. <a href="https://github.com/rjamesak/CalApp">calorie app school project</a>
 2. <a href="https://github.com/jake-designori/system360">3D stuff with Babylon</a>
+3. <a href="https://github.com/rjamesak/babylonCannonPhysics">Learning physics and 3D with Babylon</a>
+4. <a href="https://github.com/rjamesak/smallsh">Custom linux shell school project</a>
 
 
 <!---
