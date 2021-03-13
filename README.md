@@ -6,6 +6,8 @@ Some of my projects: <br/>
 2. <a href="https://github.com/jake-designori/system360">3D stuff with Babylon</a>
 3. <a href="https://github.com/rjamesak/babylonCannonPhysics">Learning physics and 3D with Babylon</a>
 4. <a href="https://github.com/rjamesak/smallsh">Custom linux shell school project</a>
+5. <a href="https://github.com/rjamesak/gameOfLife">Command line game of life in C++</a>
+6. <a href="https://github.com/kindlehl/Hackathon-W18">I did a hackathon once</a>
 
 
 <!---
