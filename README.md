@@ -7,7 +7,7 @@ Some of my projects:
 3. <a href="https://github.com/rjamesak/babylonCannonPhysics">Learning physics engine and 3D with Babylon</a>
 4. <a href="https://github.com/rjamesak/smallsh">Custom linux shell school project</a>
 5. <a href="https://github.com/rjamesak/threeVueComponents">I tried making some three.js components in Vue</a>
-6. <a href="https://github.com/rjamesak/gameOfLife">Command line game of life in C++</a>
+6. <a href="https://github.com/rjamesak/gameOfLife">Command line Game of Life (cellular automata) in C++</a>
 7. <a href="https://github.com/kindlehl/Hackathon-W18">I did a hackathon once</a>
 8. <a href="https://github.com/rjamesak/SfmlArkanoid">I added a few extras to an SFML Arkanoid game tutorial</a>
 
