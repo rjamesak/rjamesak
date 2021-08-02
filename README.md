@@ -2,7 +2,7 @@
 I'm learning CS at Oregon State University and also
 doing a little web dev with <a href="http://www.designori.net/">the designori team</a> <br/>
 <a href="https://github.com/designori-llc">Designori's github</a> <br/>
-Some of my projects:
+Some of my projects: <br/>
 I'm currently working on <a href="https://github.com/rjamesak/bin-share">this</a>. It's a trash bin sharing app I'm making with Vue.js and ArcGIS API for JavaScript.
 1. <a href="https://github.com/rjamesak/CalApp">calorie app school project</a>
 2. <a href="https://github.com/jake-designori/system360">3D stuff with Babylon</a>
