@@ -1,5 +1,5 @@
 👋 Hi, I’m Russell <br/>
-I'm learning CS at Oregon State University. I'm a software engineer for <a href="https://sspinnovations.com/">SSP Innovations</a> and have done a little web dev with <a href="http://www.designori.net/">the designori team</a> and <a href="https://www.linkedin.com/company/tekforge/">tekforge</a>.<br/>
+I'm just finishing up my CS degree at Oregon State University. I'm a software engineer for <a href="https://sspinnovations.com/">SSP Innovations</a> and have done a little web dev with <a href="http://www.designori.net/">the designori team</a> and <a href="https://www.linkedin.com/company/tekforge/">tekforge</a>.<br/>
 <a href="https://github.com/designori-llc">Designori's github</a> <br/>
 Some of my projects: <br/>
 My latest side project was <a href="https://github.com/rjamesak/bin-share">this</a>, but it's been on the backburner for a long time. It's a trash bin sharing app I made with Vue.js, the ArcGIS API for JavaScript and Firebase. It's deployed <a href="https://trashbin-share.web.app/">here</a>. Some other side projects I've worked on:
